@@ -1,0 +1,57 @@
+header{
+background-image:url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm21-smoke-bb-5_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=c8347a73d6427dda5d03bd1100c39354");
+text-align:center;
+color: #FFFFFF;
+text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+font-family: arial;
+text-transform:uppercase;
+padding:20px 14px;
+background color: #0C9309;
+}
+
+body{
+margin-top: 15px;
+margin-bottom: 15px;
+margin-right: 15px;
+margin-left: 15px;
+padding: 5px;
+font-family:arial;
+}
+
+h2{
+text-transform:uppercase;
+font-family:arial;
+text-shadow: 2px 2px 8px #5DFAE6;
+}
+
+h1{
+text-transform:uppercase;
+font-family:cursive;
+text-shadow: 2px 2px 8px #FF0000;
+
+nav a{
+	display: inline-block;
+	margin-top: 25px;
+        margin-bottom: 15px;
+        margin-right: 15px;
+        margin-left: 15px;
+	border-radius:6px;
+        text-decoration: none;
+	padding:1%;
+        color: #000000;
+	text-align: center;
+	vertical-align: middle;
+	background-color:#FFFFFF;
+        opacity:60%;
+	width:150px;
+	height: 20px;
+        
+}
+
+
+
+
+
+
+
+
